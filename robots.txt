@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-t2wn6q.kujang138.site/sitemap.xml
